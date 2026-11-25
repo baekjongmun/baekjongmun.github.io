@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://baekgoon.co.kr/sitemap.xml
